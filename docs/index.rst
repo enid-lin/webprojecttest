@@ -9,7 +9,7 @@ This guide covers the following aspects of Write the Docs events:
 
 .. toctree::
    
-   confs/checklist
+   confs/category
 
 
 
