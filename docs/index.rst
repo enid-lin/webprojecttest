@@ -10,6 +10,8 @@ This guide covers the following aspects of Write the Docs events:
 .. toctree::
    
    confs/category
+   confs/mini_baccarat
+   confs/what'sPAAS
 
 
 
