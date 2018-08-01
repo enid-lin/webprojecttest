@@ -3,7 +3,7 @@
 Mini-Baccarat 
 ======================
 
-.. image:: /img/minibaccarat_illustration.png
+.. image:: stat/minibaccarat_illustration.png
 
 The objective of the game is to bet on the hand that you predict will have the highest value, which is closest to 9. All cards, 2 to 9, are valued according to their face value; tens and face (picture) cards worth zero; and aces count as one. If the value of the hand over 10, 10 must be subtracted and the remaining points are the hand value. The highest hand is nine. If both the player¡¦s hand and the banker¡¦s hand have equal totals, the game result is a tie or a push. Banker and Player bets are returned to you if a tie occurs.
 
