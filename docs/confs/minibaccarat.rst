@@ -28,32 +28,37 @@ If neither the Player nor Banker is dealt a total of 8 or 9 in the first two car
 
 Player's rule:
 ^^^^^^^^^^^^^^^
-Point value of first two cards	Action
-
-0 - 5	Draws a card
-
-6 - 7	Stands
-
-8 - 9	Natural hand, no further cards are drawn for Player and Banker
-
-If the Player stands on 6 or 7, then the Banker must hit with a score of 0 - 5, and stand with a score of 6 - 7. If the player does hit then use the table below to determine if the banker hits or stands.
++-------------------------------+---------------------------------------------------------------+
+|Point value of first two cards |Action                                                         |
++===============================+===============================================================+
+|0 – 5                          |Draws a card                                                   |
++-------------------------------+---------------------------------------------------------------+
+|6 - 7                          |Stands                                                         |
++-------------------------------+---------------------------------------------------------------+
+| 8 - 9                         |Natural hand, no further cards are drawn for Player and Banker |
++-------------------------------+---------------------------------------------------------------+
+*If the Player stands on 6 or 7, then the Banker must hit with a score of 0 - 5, and stand with a score of 6 - 7. If the player does hit then use the table below to determine if the banker hits or stands.
 
 Banker's rule:
 ^^^^^^^^^^^^^^
-Point value of first two cards	Action
-
-0 - 2	Always draws a card
-
-3	Draw when the Player's third card is 0 - 7 or 9
-
-4	Draw when the Player's third card is 2 - 7
-
-5	Draw when the Player's third card is 4 - 7
-
-6	Draw when the Player's third card is 6 - 7
-
-7	Always stands
-
-8 - 9	Natural hand, and Player cannot draw
-
++-------------------------------+---------------------------------------------------------------+
+|Point value of first two cards |Action                                                         |
++===============================+===============================================================+
+|0 – 2                          |Always draws a card                                            |
++-------------------------------+---------------------------------------------------------------+
+|3                              |Draw when the Player's third card is 0 - 7 or 9                |
++-------------------------------+---------------------------------------------------------------+
+|4                              |Draw when the Player's third card is 2 - 7                     |
++-------------------------------+---------------------------------------------------------------+
+|5                              |Draw when the Player's third card is 4 - 7                     |
++-------------------------------+---------------------------------------------------------------+
+|6                              |Draw when the Player's third card is 6 - 7                     |
++-------------------------------+---------------------------------------------------------------+
+|7                              |Always stands                                                  |
++-------------------------------+---------------------------------------------------------------+
+|8-9                            |Natural hand, and Player cannot draw                           |
++-------------------------------+---------------------------------------------------------------+
 *If either Player and/or Banker have a total face value of 8 or 9, they both stand. This rule overrides all other rules.
+
+
+
