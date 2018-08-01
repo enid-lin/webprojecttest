@@ -13,7 +13,7 @@ This guide covers the following aspects of Write the Docs events:
    confs/category
    confs/R&RFlow
 
-[\ |LINK1|\ ] 
+[\ |LINK1|\ ] [\ |LINK2|\ ] 
 
 This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
 
@@ -24,8 +24,8 @@ If you're interested in helping start or organize a Write the Docs conference, s
 
 .. |LINK1| raw:: html
 
-    <a href="confs/mini_baccarat.html">最不科學的事情就是相信科學</a>
+    <a href="confs/mini_baccarat.html">MiniBaccarat</a>
     
     .. |LINK2| raw:: html
 
-    <a href="confs/R&RFlow.html">最不科學的事情就是相信科學</a>
+    <a href="confs/R&RFlow.html">R&R Flow</a>
