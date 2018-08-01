@@ -3,12 +3,23 @@
 R&R Flow
 ======================
 
-R&R Flow
-------------
+The following describes R&R workflow, which can be divided into four steps, *Receive Requirement*, *Feedback Mail*, *UAT*, *Go-Live*.
+
 Receive Requirement
-   OPS/NSD send a mail to IT Support group.
+   1. Confirm the deadline with OPS/NSD.
    
-   TW group check the requirement and inform the licensee group about the requirement.
+     - Note: If OPS/NSD provides the requirement on Wednesday, should check whether this requirement is urgent.
+        + Not urgent: Go-live on next Thu.
+        + Urgent: See “UAT” , Urgent requirement. 
+  
+   2. Update this requirement in R&R group “R&R and Event Request TW Group”, and inform the Licensee group.
+   
+   3. Import this requirement to CM table and \ |LINK1| \. 
+      - Note: About file naming, please refer to “Name rule”.    
+**Name Rule**
+
+20180518 *(Requirement Date)* -V.2 *(Version Number)* -Soccer Rule *(Product Name)* -2.2.16 *(Chapter Number)* -Credit *(Credit Site)*
+ - Note: Version Number: If there are other requirements received on the same day, change this number to V.2.
 
 Feedback Mail
    TW group replies the OPS/NSD mail when the requirement and release date are confirmed.
@@ -22,3 +33,12 @@ UAT
 
 Go-Live
    After go-live, send notification mail to OPS/NSD group.
+   
+
+
+.. bottom of content
+
+.. |LINK1| raw:: html
+
+   <a href="https://docs.google.com/spreadsheets/d/1gdYHpjdZY7Pa8v4yo8p7yD6h_xcbEEYr_gR4JDEARl4/edit#gid=1816451177" target="_blank">Google Doc</a>
+   
