@@ -15,11 +15,15 @@ Receive Requirement
    2. Update this requirement in R&R group “R&R and Event Request TW Group”, and inform the Licensee group.
    
    3. Import this requirement to CM table and \ |LINK1| \. 
-      - Note: About file naming, please refer to “Name rule”.    
-**Name Rule**
-
-20180518 *(Requirement Date)* -V.2 *(Version Number)* -Soccer Rule *(Product Name)* -2.2.16 *(Chapter Number)* -Credit *(Credit Site)*
- - Note: Version Number: If there are other requirements received on the same day, change this number to V.2.
+      - Note: About file naming, see the example and its explanation below.
+      
+      - Example: 20180518-V.2-Soccer Rule-2.2.16-Credit
+      
+         + 20180518: Requirement Date
+         + V.2: Version Number (If there are other requirements received on the same day, change this number to V.2.)
+         + Soccer Rule: Product Name
+         + 2.2.16: Chapter Name
+         + Credit: Credit Site
 
 Feedback Mail
    TW group replies the OPS/NSD mail when the requirement and release date are confirmed.
