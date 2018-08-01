@@ -24,17 +24,21 @@ Receive Requirement
          + Credit: Credit Site
         
 Feedback Mail
+   Once the requiremnt and the spec are confirmed, TW group should reply the OPS/NSD mail. (see example below)
    TW group replies the OPS/NSD mail when the requirement and release date are confirmed.
-   
-   Record this requirement on CM table and Google Doc.
-
+      - Note: Go-Live Date Change
+              If the go-live date must be changed, remember to send the change request to OPS/NSD group.
+         
 UAT
-   Ask RD Group to assist the requirement. Front will provide UAT environment.
+   Arrange the UI/UX and Front-end group to build the UAT environment.
+      - UI/UX team provides the SVN No.
+      - Front-end team provides the UAT environment.
    
    Examine the content in UAT environment, to see if there is omission.
+   If urgent, verify the content directly in production environment.
 
 Go-Live
-   After go-live, send notification mail to OPS/NSD group.
+   After go-live, send notification mail to OPS/NSD group. (see example below)
    
 
 
