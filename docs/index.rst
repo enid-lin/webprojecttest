@@ -9,7 +9,7 @@ This guide covers the following aspects of Write the Docs events:
 
 .. toctree::
    
-   confs/mini_baccarat
+   confs/minibaccarat
    confs/category
    confs/R&RFlow
 
@@ -18,15 +18,6 @@ This guide draws much inspiration from the `Django Girls Organizer's Guide <http
 
 If you're interested in helping start or organize a Write the Docs conference, send us email at conf@writethedocs.org.
 
-[\ |LINK1|\ ] [\ |LINK2|\ ] 
-
 .. bottom of content
 
 
-.. |LINK1| raw:: html
-
-    <a href="mini_baccarat.rts">MiniBaccarat</a>
-    
-.. |LINK2| raw:: html
-
-    <a href="R&RFlow.rts">R&R Flow</a>
