@@ -24,8 +24,8 @@ If you're interested in helping start or organize a Write the Docs conference, s
 
 .. |LINK1| raw:: html
 
-    <a href="confs/mini_baccarat.html">MiniBaccarat</a>
+    <a href="mini_baccarat.html">MiniBaccarat</a>
     
     .. |LINK2| raw:: html
 
-    <a href="confs/R&RFlow.html">R&R Flow</a>
+    <a href="R&RFlow.html">R&R Flow</a>
