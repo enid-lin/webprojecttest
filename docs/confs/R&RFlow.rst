@@ -26,11 +26,14 @@ Receive Requirement
 Feedback Mail
    Once the requiremnt and the spec are confirmed, TW group should reply the OPS/NSD mail. (see example below)
    
+   \ |IMG2|\
+   
    TW group replies the OPS/NSD mail when the requirement and release date are confirmed.
+   
       - Note: Go-Live Date Change
               If the go-live date must be changed, remember to send the change request to OPS/NSD group.
 
-\ |IMG2|\
+
  
 UAT
    Arrange the UI/UX and Front-end group to build the UAT environment.
