@@ -16,7 +16,7 @@ Receive Requirement
    
    3. Import thie requirement to CM table and \ |LINK1|\. See below for the file naming example and its definition.
    
-      - Example: 20180518-V.1-Soccer Rule-2.2.16-Credit
+      - Example: \ |IMG1|\
          + 20180518: Requirement Date
          + V.1: Version Number. If there are other requirements received on the same day, change this number to V.2.
          + Soccer Rule: The affected Product Name
@@ -28,6 +28,8 @@ Feedback Mail
    TW group replies the OPS/NSD mail when the requirement and release date are confirmed.
       - Note: Go-Live Date Change
               If the go-live date must be changed, remember to send the change request to OPS/NSD group.
+
+\ |IMG2|\
  
 UAT
    Arrange the UI/UX and Front-end group to build the UAT environment.
@@ -41,7 +43,7 @@ UAT
 Go-Live
    After go-live, send notification mail to OPS/NSD group. (see example below)
    
-\ |IMG1|\
+\ |IMG3|\
 
 .. bottom of content
 
@@ -49,4 +51,8 @@ Go-Live
 
    <a href="https://docs.google.com/spreadsheets/d/1gdYHpjdZY7Pa8v4yo8p7yD6h_xcbEEYr_gR4JDEARl4/edit#gid=1816451177" target="_blank">Google Doc</a>
    
-.. |IMG1| image:: /confs/img/minibaccarat_illustration.png
+.. |IMG1| image:: /confs/img/namerule.jpg
+
+.. |IMG2| image:: /confs/img/feedbackmail.png
+
+.. |IMG3| image:: /confs/img/golive.png
