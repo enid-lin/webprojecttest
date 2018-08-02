@@ -41,6 +41,8 @@ UAT
 Go-Live
    After go-live, send notification mail to OPS/NSD group. (see example below)
    
+   \ |IMG1|\
+   
 
 
 .. bottom of content
@@ -49,3 +51,6 @@ Go-Live
 
    <a href="https://docs.google.com/spreadsheets/d/1gdYHpjdZY7Pa8v4yo8p7yD6h_xcbEEYr_gR4JDEARl4/edit#gid=1816451177" target="_blank">Google Doc</a>
    
+.. |IMG1| image:: confs/img/golive.png
+   :height: 281 px
+   :width: 609 px
