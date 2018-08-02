@@ -5,13 +5,13 @@ Here lists all resources that are oftenly used during a project.
 
 Often Use Websites
 -------------------
-\ |LINK1|\
+* \ |LINK1|\
 
-\ |LINK2|\
+* \ |LINK2|\
 
-\ |LINK3|\
+* \ |LINK3|\
 
-\ |LINK4|\
+* \ |LINK4|\
 
 .. bottom of content
     
