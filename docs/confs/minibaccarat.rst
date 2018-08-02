@@ -3,9 +3,7 @@
 Mini-Baccarat 
 ======================
 
-.. image:: /confs/img/minibaccarat_illustration.png
-
-The objective of the game is to bet on the hand that you predict will have the highest value, which is closest to 9. All cards, 2 to 9, are valued according to their face value; tens and face (picture) cards worth zero; and aces count as one. If the value of the hand over 10, 10 must be subtracted and the remaining points are the hand value. The highest hand is nine. If both the player¡¦s hand and the banker¡¦s hand have equal totals, the game result is a tie or a push. Banker and Player bets are returned to you if a tie occurs.
+The objective of the game is to bet on the hand that you predict will have the highest value, which is closest to 9. All cards, 2 to 9, are valued according to their face value; tens and face (picture) cards worth zero; and aces count as one. If the value of the hand over 10, 10 must be subtracted and the remaining points are the hand value. The highest hand is nine. If both the player¡¦s hand and the banker's hand have equal totals, the game result is a tie or a push. Banker and Player bets are returned to you if a tie occurs.
 
 How to Play:
 ------------
@@ -79,8 +77,6 @@ Play Tables:
 
 迷你-百家乐 
 ======================
-
-.. image:: /confs/img/minibaccarat_illustration.png
 
 游戏目标是让您预测最高牌值 (最接近9)。从2到9的牌皆须根据其面值计算牌值，10、J、Q、K之牌值视为0点，Ace视为1点。若手牌总点数超过10或更多，则须扣除10点后才能得到实际牌值。手牌牌值最高为9点，当闲家与庄家牌值相等时，该局即为和局。押在闲家与庄家的赌注皆会退还给投注者。
 
