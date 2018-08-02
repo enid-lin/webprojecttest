@@ -28,9 +28,10 @@ Feedback Mail
    TW group replies the OPS/NSD mail when the requirement and release date are confirmed.
       - Note: Go-Live Date Change
               If the go-live date must be changed, remember to send the change request to OPS/NSD group.
-         
+ 
 UAT
    Arrange the UI/UX and Front-end group to build the UAT environment.
+   
       - UI/UX team provides the SVN No.
       - Front-end team provides the UAT environment.
    
