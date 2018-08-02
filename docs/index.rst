@@ -12,6 +12,7 @@ This guide covers the following aspects of Write the Docs events:
    confs/minibaccarat
    confs/category
    confs/R&RFlow
+   confs/informationtest
 
 
 This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
